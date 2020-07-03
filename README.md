@@ -1,3 +1,6 @@
+**This repository has been merged into
+[topobyte/osm4j](https://github.com/topobyte/osm4j).**
+
 # About
 
 This is the osm4j module for editing data using the OpenStreetMap API.
